@@ -1,2 +1,2 @@
 # Cesium-sample-code
-some sample code for visualizing flights using cesium. given a set of trajectories, the R code generates an animated cesium html file.
+Some sample code for visualizing flights using cesium. Given a set of trajectories, the R code generates an animated cesium html file. To view the animated html files, just download and open them. You can control the play speed at the bottom left corner, and click the play button to start the animation. The flight plots are in a small region, so you might need to rotate the globe to find the flights. It is recommended to play at 1000x speed to first assess when the flights start moving since they do not move for most of the day.
